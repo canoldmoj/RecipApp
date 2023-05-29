@@ -25,7 +25,7 @@ Getting Started
 ### INSTRUCTIONS TO OPARATE 
 
 Clone the repository or download the source code, using Link attached above.
-Open the solution file (##) in Visual Studio.
+Open the solution file (st10155314 Sethakge Mojela Part2 prog Group3 ) in Visual Studio.
 Build the solution to restore dependencies and compile the project.
 Run the application selecting the "Start" button in Visual Studio.
 
@@ -51,7 +51,7 @@ Unit tests are included in the project to ensure the correctness of key function
 
 To run the tests:
 
-Open the solution file (##) in Visual Studio.
+Open the solution file (st10155314 Sethakge Mojela Part2 prog Group3) in Visual Studio.
 In the Solution Explorer, right-click on the test class named "UnitTest1.cs" and select "Run".
 The test runner will start and the test will be executed.
 The test runner will display the results of the test.

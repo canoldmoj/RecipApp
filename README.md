@@ -2,8 +2,6 @@
 ## git@github.com:canoldmoj/RecipApp.git
 
 
-
-
 # APP DISCRPTION 
 This is a standalone command line application that allows users to enter and manage recipes. It is implemented in C# using Visual Studio and uses classes to store the recipe data.
 
@@ -20,7 +18,6 @@ Choose a recipe to display.
 Scale a recipe by a given factor.
 Reset quantities in a recipe.
 Calculate the total calories in a recipe.
-Getting Started
 
 ### INSTRUCTIONS TO OPARATE 
 
@@ -45,19 +42,12 @@ Terminate the program.
 Follow the prompts to input the necessary details for each task.
 
 
-### Testing
-
-Unit tests are included in the project to ensure the correctness of key functionalities. The tests can be found in the "TestProject1" project.
-
-To run the tests:
-
-Open the solution file (st10155314 Sethakge Mojela Part2 prog Group3) in Visual Studio.
-In the Solution Explorer, right-click on the test class named "UnitTest1.cs" and select "Run".
-The test runner will start and the test will be executed.
-The test runner will display the results of the test.
-
 ### Implementation
 
 The application is developed using Visual Studio in the C# programming language. It utilizes classes to store recipe data, with ingredients and steps stored in arrays. Interactions with the user through the command line are facilitated by the Program class.
 
+## improvements
+
+classes created rather than those of the first project. 
+readme file has better and improved information about the project. 
 
